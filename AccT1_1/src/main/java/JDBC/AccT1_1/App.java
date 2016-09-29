@@ -1,4 +1,4 @@
-package t1_jdbc.ejercicio1;
+package JDBC.AccT1_1;
 
 /**
  * Hello world!
